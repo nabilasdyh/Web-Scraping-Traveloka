@@ -38,6 +38,7 @@ Analisis ini bertujuan untuk melihat sebaran harga khusus untuk kategori **Villa
 
 ### ⭐ 2. Akomodasi dengan Rating Tertinggi
 Digunakan untuk mengidentifikasi penginapan premium. Data ini sangat berguna bagi segmen pasar yang mengutamakan **kenyamanan dan pelayanan terbaik** berdasarkan pengalaman pengguna sebelumnya.
+
 <img width="500" alt="Rating Tertinggi 1" src="https://github.com/user-attachments/assets/d28ec13e-0285-4fbc-b7d6-fda678e9b256" />
 <img width="491" alt="Rating Tertinggi 2" src="https://github.com/user-attachments/assets/00623def-3b2d-4b4b-a55a-77d6383b8429" />
 
@@ -60,6 +61,7 @@ Ditemukan adanya **1 properti** yang memiliki harga di atas rata-rata namun deng
 ### 🏠 Perbandingan Tipe Properti: Villa vs Apartment
 
 <img width="521" alt="Analisis Tipe Properti" src="https://github.com/user-attachments/assets/b186f211-0a49-48ea-859f-83b0e073b8b7" />
+
 Berdasarkan data agregasi yang dilakukan melalui PostgreSQL:
 * **Villa:** Memiliki harga rata-rata, harga maksimal, dan harga minimal yang **lebih tinggi**.
 * **Apartemen:** Cenderung **lebih terjangkau** di semua lini harga.
