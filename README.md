@@ -58,10 +58,11 @@ Ditemukan adanya **1 properti** yang memiliki harga di atas rata-rata namun deng
 <img width="515" alt="Analisis Harga vs Rating" src="https://github.com/user-attachments/assets/53d4e3be-280c-45d3-853b-67660c7e0bf2" />
 
 ### 🏠 Perbandingan Tipe Properti: Villa vs Apartment
+
+<img width="521" alt="Analisis Tipe Properti" src="https://github.com/user-attachments/assets/b186f211-0a49-48ea-859f-83b0e073b8b7" />
 Berdasarkan data agregasi yang dilakukan melalui PostgreSQL:
 * **Villa:** Memiliki harga rata-rata, harga maksimal, dan harga minimal yang **lebih tinggi**.
 * **Apartemen:** Cenderung **lebih terjangkau** di semua lini harga.
 
 **Kesimpulan:** Apartemen adalah pilihan terbaik bagi pencari penginapan yang memprioritaskan harga terjangkau (*budget traveler*).
 
-<img width="521" alt="Analisis Tipe Properti" src="https://github.com/user-attachments/assets/b186f211-0a49-48ea-859f-83b0e073b8b7" />
